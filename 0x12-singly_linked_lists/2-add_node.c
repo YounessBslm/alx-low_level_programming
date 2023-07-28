@@ -6,8 +6,7 @@
 * add_node - add new node at the beginning of a linked list
 * @head: double pointer to the list_t list
 * @str: new string to be added in the node
-*
-* Return: the address of the new element, or NULL if it fails
+* Return: the address of the new element, or NULL
 */
 list_t *add_node(list_t **head, const char *str)
 {
