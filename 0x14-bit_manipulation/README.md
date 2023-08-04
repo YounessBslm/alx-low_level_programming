@@ -1,1 +1,1 @@
-bitmanipulation
+bitsmanipulation
